@@ -60,6 +60,8 @@ Microsoft Certified: <a href="https://www.credly.com/badges/65aee594-339d-4653-b
 <p align="left"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jsilgado&show_icons=true&locale=en&layout=compact" alt="jsilgado" />
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jsilgado&show_icons=true&locale=en" alt="jsilgado" /></p>
+
 
 ### More about me:
   + 🎲 Time flies with a good board game.
