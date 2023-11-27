@@ -3,30 +3,28 @@
 <h5 align="center">Developing software since 2005</h3>
 
 ### Work:
-<p align="left">
-<img align="center" src="https://media.licdn.com/dms/image/C4E0BAQHZYW658T5wnQ/company-logo_100_100/0/1656668414307?e=1680134400&v=beta&t=-MQA745Tulkrj705-bshunUsFvUCoNdgeXUNFiuTgtA" height="30" width="40" /></a>
-I’m currently working on **NTT DATA Europe & LATAM**
-</p>
+:computer: I am currently working on Babel Group in OpenBank Client
+### Studies:
+:man_student: I am also studying the Master's Degree in Teaching in Compulsory Secondary Education and Vocational Training and Language Teaching.
 
 <h3 align="left">Education and training:</h3>
+
+:desktop_computer: Ingeniería Técnica Informática de Sistemas
+
 <p align="left">
-<img align="center" src="https://media.licdn.com/dms/image/C4D0BAQFeIC0XDU7cug/company-logo_200_200/0/1537776039163?e=1680134400&v=beta&t=9RqizF1mgLOQenabOaLtXNsZl9kHRPPHXZBifRIz_jQ" height="30" width="40">
-Ingeniería Técnica Informática de Sistemas
-</p>
-<p align="left">
-<img align="center" src="https://media.licdn.com/dms/image/D4E0BAQHYCgYovUuPtQ/company-logo_200_200/0/1665755678671?e=1680134400&v=beta&t=eMrlqGNN2U8h3GR11DAI6cFWlax8SSPej6NrDLvzTxI" height="30" width="40">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" width="40">
 Oracle Certified Professional, Java SE 6 Programmer
 </p>
 <p align="left">
-<img align="center" src="https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1618231291419?e=1680134400&v=beta&t=KQiKy-ZDYIr4e82J_Sx5G3QSSwHzVgHMdZkU9R52Cvw" height="30" width="40">
+<img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/microsoft_azure_logo_icon_168977.png" height="30" width="40">
 Microsoft Certified: <a href="https://www.credly.com/badges/009f2087-0614-4a79-87cf-01efa9c2ea34" target="blank">Azure AI Fundamentals</a>
 </p>
 <p align="left">
-<img align="center" src="https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1618231291419?e=1680134400&v=beta&t=KQiKy-ZDYIr4e82J_Sx5G3QSSwHzVgHMdZkU9R52Cvw" height="30" width="40">
+<img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/microsoft_azure_logo_icon_168977.png" height="30" width="40">
 Microsoft Certified: <a href="https://www.credly.com/badges/25ba7480-9c23-4f56-8189-86b0443f9400" target="blank">Azure Fundamentals</a>
 </p>
 <p align="left">
-<img align="center" src="https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1618231291419?e=1680134400&v=beta&t=KQiKy-ZDYIr4e82J_Sx5G3QSSwHzVgHMdZkU9R52Cvw" height="30" width="40">
+<img align="center" src="https://cdn.icon-icons.com/icons2/2699/PNG/96/microsoft_azure_logo_icon_168977.png" height="30" width="40">
 Microsoft Certified: <a href="https://www.credly.com/badges/65aee594-339d-4653-bd83-51b7659649cc" target="blank">Azure Data Fundamentals</a>
 </p>
 
