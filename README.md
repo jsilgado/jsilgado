@@ -3,7 +3,7 @@
 <h5 align="center">Developing software since 2005</h3>
 
 ### Work:
-:computer: I am currently working on Babel Group in OpenBank Client
+:computer: I am currently working at OpenBank (Santander Group) as a Backend Developer and Senior Analyst.
 ### Studies:
 :man_student: I am also studying the Master's Degree in Teaching in Compulsory Secondary Education and Vocational Training and Language Teaching.
 
